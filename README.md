@@ -2,7 +2,7 @@
 Using HTML and CSS to automatically resize, conceal, shrink, or enlarge a website so that it looks excellent on all devices is known as responsive web design (desktops, tablets, and phones). This project involves creating a responsive e-commerce website with numerous HTML, CSS, and JavaScript properties.
 
 
-#Result
+# Result
 
 Website:
 <img width="1440" alt="Screenshot 2023-01-08 at 4 39 12 PM" src="https://user-images.githubusercontent.com/94075388/211208794-ec691d69-122a-4e92-853f-cbae5628383a.png">
